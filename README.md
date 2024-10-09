@@ -1,5 +1,5 @@
 # Sinema Rezervasyon Otomasyonu
-Bu proje, HTML, CSS ve JavaScript kullanarak bir sinema rezervasyon otomasyonu sunmaktadır. Kullanıcıların bir film için koltuk seçmesini ve rezervasyon yapmasını sağlar. Boş koltuklar yeşil renkte, rezerve edilmiş koltuklar kırmızı renkte ve seçilen koltuklar sarı renkte gösterilmektedir. Her film için farklı fiyatlandırma yapılmakta ve boş olan koltuklar dolduğunda toplam fiyat otomatik olarak güncellenmektedir.
+Bu proje, HTML, CSS ve JavaScript kullanarak bir sinema rezervasyon otomasyonu sunmaktadır. Kullanıcıların bir film için koltuk seçmesini ve rezervasyon yapmasını sağlar. Boş koltuklar gri renkte, rezerve edilmiş koltuklar kırmızı renkte ve seçilen koltuklar sarı renkte gösterilmektedir. Her film için farklı fiyatlandırma yapılmakta ve boş olan koltuklar dolduğunda toplam fiyat otomatik olarak güncellenmektedir.
 
 # Özellikler
 Kullanıcılar boş koltuklar arasından seçim yapabilir.
